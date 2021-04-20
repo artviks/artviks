@@ -3,7 +3,9 @@
 ---
 
 My name is Arturs Viksne and I'm a software developer working mostly with PHP, MySQL, Laravel and currently working at Codelex.
-I’m currently learning frontend to become a full-stack developer.
+
+I'm currently acquiring a deeper knowledge of JS and CSS to become a full-stack developer.
+
 You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 ---
