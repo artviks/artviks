@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">!
+
+---
+
+My name is Arturs Viksne and I'm a software developer working mostly with PHP, MySQL, Laravel and currently working at Codelex. 
+You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
+
+---
 
 <!--
 **artviks/artviks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
