@@ -17,6 +17,7 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 ## &#x1f4c8; My Github
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artviks&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 [![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=artviks&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
