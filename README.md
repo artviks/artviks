@@ -17,11 +17,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 ## &#x1f4c8; My Github
 
 <a href="https://github.com/artviks">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api?username=artviks&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=artviks&theme=dark" />
 </a>
-<br>
 <a href="https://github.com/artviks">
-  <img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artviks&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artviks&theme=dark" />
 </a>
 
 
