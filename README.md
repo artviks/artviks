@@ -2,7 +2,8 @@
 
 ---
 
-My name is Arturs Viksne and I'm a software developer working mostly with PHP, MySQL, Laravel and currently working at Codelex. 
+My name is Arturs Viksne and I'm a software developer working mostly with PHP, MySQL, Laravel and currently working at Codelex.
+I’m currently learning frontend to become a full-stack developer.
 You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 ---
@@ -13,7 +14,9 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 ---
 
-##
+## &#x1f4c8; My Github
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artviks&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **artviks/artviks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
