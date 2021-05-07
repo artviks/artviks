@@ -8,7 +8,7 @@ I'm currently acquiring a deeper knowledge of JS and CSS to become a full-stack 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
----
+
 
 ## 🚀 Latest Projects
 
@@ -18,13 +18,13 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 [TradingApp](https://github.com/artviks/TradingApp)
 
----
+
 
 ## 🛠 Tools & Technologies
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="Laravel logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/phpstorm/phpstorm-original-wordmark.svg" alt="phpStorm logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker logo" width="70" height="70"> <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" alt="vstudio logo" width="70" height="70">
 
----
+
 
 ## &#x1f4c8; My Github
 
