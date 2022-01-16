@@ -2,15 +2,14 @@
 
 ---
 
-My name is Arturs Viksne and I'm a software developer working mostly with PHP, MySQL, Laravel and working/learning at Codelex.
-
-I'm currently acquiring a deeper knowledge of JS and CSS to become a full-stack developer.
+My name is Arturs Viksne and I'm a software developer working in web development.
+Independent, well-organized and detail-oriented personality that is always trying to create high quality and easily mainatainable code.
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 
 
-## 🚀 Latest Projects
+## 🚀 Projects
 
 [CurrencyConverter](https://github.com/artviks/CurrencyConverter)
 
