@@ -11,6 +11,10 @@ You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 ## 🚀 Projects
 
+[Symfony WeatherApp](https://github.com/artviks/weather_app)
+
+[VueTraining](https://github.com/artviks/Vue-training)
+
 [CurrencyConverter](https://github.com/artviks/CurrencyConverter)
 
 [WannabeTinder](https://github.com/artviks/WannabeTinder)
