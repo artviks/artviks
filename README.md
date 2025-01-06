@@ -8,13 +8,6 @@ Independent, well-organized and detail-oriented personality that is always tryin
 You can find me on [LinkedIn](https://www.linkedin.com/in/arturs-viksne/).
 
 
-## &#x1f4c8; My Github
-
-<a href="https://github.com/artviks">
-  <img aling="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artviks&theme=dark" />
-</a>
-
-
 <!--
 **artviks/artviks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
